@@ -3,8 +3,8 @@
 
 ## 🌐 Connect with me:
 - 📧 [Email](mailto:Zahidawan34@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zahidawan)
-- 💻 [GitHub](https://github.com/zahidawan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zahid-awan-38a571232/)
+- 💻 [GitHub](https://github.com/Zarhad-01/)
 
 ## 💡 Professional Summary
 Software Engineering graduate with 5 years of experience in software development. Specializing in backend development and cloud computing. Proficient in Python, JavaScript, C++, C#, SQL, and familiar with AWS, Azure, and Google Cloud platforms.
