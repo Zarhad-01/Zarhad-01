@@ -31,7 +31,6 @@ Software Engineering graduate with 5 years of experience in software development
 ## 🚧 Ongoing Projects
 - **Z-Shop**: A Blazor and .Net application that is a clothing storefront with multiple different views for staff or customer.
 - **Tool-finder**: An arduino project using a React front-end to help inventory and find my tools. Select a tool, the drawer containing it lights up!
-- 
 <!--
 **Zarhad-01/Zarhad-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
