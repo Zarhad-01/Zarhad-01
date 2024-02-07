@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Jhelan 👋</h1>
+<h1 align="center">Hello, I'm Zahid 👋</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 ## 🌐 Connect with me:
