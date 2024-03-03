@@ -7,11 +7,11 @@
 - 💻 [GitHub](https://github.com/Zarhad-01/)
 
 ## 💡 Professional Summary
-Software Engineering graduate with 5 years of experience in software development. Specializing in backend development and cloud computing. Proficient in Python, JavaScript, C++, C#, SQL, and familiar with AWS, Azure, and Google Cloud platforms.
+BSc (Hons) Software Engineering graduate boasting 5 years of coding proficiency gained through academic and professional experiences. Skilled in JavaScript, C#, C++, and SQL with further development in React, .Net, and Azure Fundamentals Certification.
 
 ## 🛠 Skills
-- **Languages**: Python, JavaScript (ES6+), Typescript, C, SQL, C++, C#, .Net, Blazor, VB, Haskell
-- **Frameworks**: React, .Net, ExpressJS, NodeJS
+- **Languages**: Python, JavaScript (ES6+) / Typescript, SQL, C++, C#, .Net (MVC), HTML, CSS 
+- **Frameworks**: React (JS/TS),  Blazor, StyleX, .Net Core, NodeJS
 - **Databases**: PostgreSQL, MongoDB, Firebase, MS SQL Server
 - **Cloud**: AWS, Azure, Google Cloud
 - **Other**: GIT, GitHub, Linux, CI/CD
